@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghanghasmukul
-- 👀 I’m an Android Developer
+- 👀 I’m a Android Developer
 - 🌱 I’m currently gaining exprience on android studio 
 - 💞️ I’m looking to collaborate on more real life projects
 - 📫 Contact me via email- mukulghanghas1@gmail.com
